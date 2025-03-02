@@ -8,8 +8,8 @@ import sys
 
 # Print the version of python you are running, it should be 3.x
 print()
-print("Version is: ", sys.version)
+print("Python Version: ", sys.version)
 print()
 
 # Print hello world
-print("Hello World")
+print("Hello World!!!")
