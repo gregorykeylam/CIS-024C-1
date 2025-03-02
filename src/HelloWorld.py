@@ -3,13 +3,13 @@
 # Created: March 2, 2025
 # Description: A hello world program that also prints out the python version number.
 
-
+# Import statements
 import sys
 
-# print the version of python you are running, it should be 3.x
+# Print the version of python you are running, it should be 3.x
 print()
 print("Version is: ", sys.version)
 print()
 
-# print hello world
+# Print hello world
 print("Hello World")
