@@ -1,7 +1,9 @@
-# Filename: HelloWorld.py
-# Author: Gregory Lam
-# Created: March 2, 2025
-# Description: A hello world program that also prints out the python version number.
+"""
+Filename: HelloWorld.py
+Author: Gregory Lam
+Created: March 2, 2025
+Description: A program that prints "hello world" and python version it is running on.
+"""
 
 # Import statements
 import sys
